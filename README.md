@@ -8,7 +8,7 @@ It generates an image with a thank your message and a contour background. Each c
 
 ## Usage
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/netlify-statuskit)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/storybookjs/shout-out-kit)
 
 Click in the Deploy to Netlify button above to create your own site directly and push this repository to your own account.
 
