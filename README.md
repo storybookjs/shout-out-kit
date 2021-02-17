@@ -1,6 +1,6 @@
-# Shout-out Generator
+# Shout-out Generator Kit
 
-An image generation API to recognize Storybook Contributors.
+A shout-out image generation API template.
 
 It generates an image with a thank your message and a contour background. Each contour is unique and derived from the username.
 
