@@ -1,0 +1,8 @@
+.DS_Store
+node_modules
+
+.env
+
+functions/shout-out-image/image.js
+
+image-component/storybook-static

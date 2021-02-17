@@ -1,0 +1,12 @@
+{
+  "name": "shout-out-image",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "winkerVSbecks",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "playwright-aws-lambda": "^0.4.0",
+    "playwright-core": "^0.11.1"
+  }
+}

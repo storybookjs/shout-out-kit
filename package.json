@@ -1,0 +1,13 @@
+{
+  "name": "shout-out-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "winkerVSbecks",
+  "license": "MIT",
+  "scripts": {
+    "start": "netlify dev"
+  },
+  "dependencies": {
+    "netlify-cli": "^3.4.6"
+  }
+}
