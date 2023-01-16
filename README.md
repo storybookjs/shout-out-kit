@@ -2,7 +2,7 @@
 
 A shout-out image generation API template.
 
-It generates an image with a thank your message and a contour background. Each contour is unique and derived from the username.
+It generates an image with a thank you message and a contour background. Each contour is unique and derived from the username.
 
 ![image demo](https://user-images.githubusercontent.com/42671/107864759-8b9f7900-6e2d-11eb-8325-b54c4111d1f7.png)
 
@@ -10,7 +10,7 @@ It generates an image with a thank your message and a contour background. Each c
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/storybookjs/shout-out-kit)
 
-Click in the Deploy to Netlify button above to create your own site directly and push this repository to your own account.
+Click on the Deploy to Netlify button above to create your own site directly and push this repository to your own account.
 
 Once deployed, try navigating to `https://your_app.netlify.app/image?id=GITHUB_USERNAME`.
 
